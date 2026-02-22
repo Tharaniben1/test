@@ -5,3 +5,5 @@ somw thing to try out
   # this is new-bug branch
   hi its for testing out
   
+# this is from feature branch
+# this is feature2 branch
