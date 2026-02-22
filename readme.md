@@ -10,3 +10,4 @@ git commit test for reset
 git commit 2 for test reset
 git commit 3 for test reset
 git commit 4 for test reset
+git commit 5 for test hard reset
