@@ -5,3 +5,5 @@ somw thing to try out
 # this is feature2 branch
 
 to check about the reset  and soft reset
+to check purppose
+git commit test for reset
