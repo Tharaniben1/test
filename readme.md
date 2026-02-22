@@ -7,3 +7,4 @@ somw thing to try out
 to check about the reset  and soft reset
 to check purppose
 git commit test for reset
+git commit 2 for test reset
