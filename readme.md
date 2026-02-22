@@ -8,3 +8,5 @@ to check about the reset  and soft reset
 to check purppose
 git commit test for reset
 git commit 2 for test reset
+git commit 3 for test reset
+git commit 4 for test reset
